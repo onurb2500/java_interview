@@ -1,0 +1,14 @@
+1 - Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
+R: Camada 2 recebe os dados do meio físico, confere se os dados possuem algum erro e, caso tenham, se é possível corrigí-los. 
+    Por fim, faz o controle do fluxo de dados. Seus protocolos são Ethernet, IEEE 802.1Q, HDLC, Token ring, FDDI, PPP, Switch,
+    Frame relay, ATM, ARP, RARP. Camada 3 é responsável por identificar o remetente e o destinatário dos dados. Seus protocolos 
+    são OSPF, IP (IPv4, IPv6) ICMP, ICMPv6, ECN, IGMP, IPsec
+
+2 - Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado a adoção de uma 
+solução OpenSource como o sistema operacional Ubuntu? Quais seriam os pontos negativos e positivos de cada abordagem?
+    R: Soluções proprietárias possuem maior usabilidade e menor flexibilidade para adapatações no código. Já soluções OpenSource, por permitir atualizações
+    em seu código, são mais flexíveis a mudanças de necessidades do mercado, podem ser integrados com diferentes produtos e são mais seguros.
+
+3 - O que seria um projeto OpenSource? Como empresas podem adotar tais tecnologias e o que isso acarreta?
+    R: São projetos com código aberto a comunidade de desenvolvedores. Adotando uma tecnologia OpenSource, uma empresa terá menos problemas em alcançar
+    a solução desejada com a tecnologia, uma vez que haverá uma enorme comunidade com sujestões e situações disponíveis para consultar.
